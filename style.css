@@ -149,7 +149,6 @@ white-space: nowrap;
 padding: 10px 0;
 }
 
-/* Tiap item teks */
 .scrolling-item {
 display: inline-flex;
 align-items: center;
@@ -529,7 +528,7 @@ font-size: 1rem;
     pointer-events: none;
 }
 
-.card1 .pic { background-image: url('card4.jpeg'); }
+.card1 .pic { background-image: url('img/card4.jpeg'); }
 .card2 .pic { background-image: url('images/img2.jpg'); }
 .card3 .pic { background-image: url('images/img3.jpg'); }
 .card4 .pic { background-image: url('images/img4.jpg'); }
