@@ -571,7 +571,6 @@ font-size: 1rem;
     padding: 4px 10px;
     border-radius: 20px;
     border: 1px solid var(--main-color);
-    /* Override gradient from global span */
     background-clip: unset;
     -webkit-background-clip: unset;
     color: #3abef9 !important;
